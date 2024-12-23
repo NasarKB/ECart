@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">E Cart</string>
+    <!--Home Screen String-->
+    <string name="hello_tony_what_fruit_salad_combo_do_you_want_today">Hello Tony, What fruit salad \ncombo do you want today?</string>
+    <string name="my_basket">My basket</string>
+    <string name="search_for_fruit_salad_combos">Search for fruit salad combos</string>
+    <string name="recommended_combo">Recommended Combo</string>
+    <!--Cart Screen Strings-->
+    <string name="go_back">Go back</string>
+    <string name="total">Total</string>
+    <string name="checkout">Checkout</string>
+    <string name="coupon_code">Coupon Code</string>
+    <string name="complete_order">Complete Order</string>
+    <string name="enter_code">Enter Code</string>
+    <!--Order complete Screen-->
+    <string name="congrats">Congratulations!!!</string>
+    <string name="your_order_have_been_taken_and_is_being_attended_to">Your order have been taken and is being attended to</string>
+    <string name="continue_shopping">Continue shopping</string>
+</resources>
